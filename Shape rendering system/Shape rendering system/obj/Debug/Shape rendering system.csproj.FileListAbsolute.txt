@@ -1,0 +1,7 @@
+C:\Users\mohamed osama\Downloads\Shape rendering system\Shape rendering system\bin\Debug\Shape rendering system.exe.config
+C:\Users\mohamed osama\Downloads\Shape rendering system\Shape rendering system\bin\Debug\Shape rendering system.exe
+C:\Users\mohamed osama\Downloads\Shape rendering system\Shape rendering system\bin\Debug\Shape rendering system.pdb
+C:\Users\mohamed osama\Downloads\Shape rendering system\Shape rendering system\obj\Debug\Shape rendering system.csproj.AssemblyReference.cache
+C:\Users\mohamed osama\Downloads\Shape rendering system\Shape rendering system\obj\Debug\Shape rendering system.csproj.CoreCompileInputs.cache
+C:\Users\mohamed osama\Downloads\Shape rendering system\Shape rendering system\obj\Debug\Shape rendering system.exe
+C:\Users\mohamed osama\Downloads\Shape rendering system\Shape rendering system\obj\Debug\Shape rendering system.pdb
