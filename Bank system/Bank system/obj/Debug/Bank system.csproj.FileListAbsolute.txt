@@ -1,0 +1,7 @@
+C:\Users\mohamed osama\Downloads\Bank system\Bank system\bin\Debug\Bank system.exe.config
+C:\Users\mohamed osama\Downloads\Bank system\Bank system\bin\Debug\Bank system.exe
+C:\Users\mohamed osama\Downloads\Bank system\Bank system\bin\Debug\Bank system.pdb
+C:\Users\mohamed osama\Downloads\Bank system\Bank system\obj\Debug\Bank system.csproj.AssemblyReference.cache
+C:\Users\mohamed osama\Downloads\Bank system\Bank system\obj\Debug\Bank system.csproj.CoreCompileInputs.cache
+C:\Users\mohamed osama\Downloads\Bank system\Bank system\obj\Debug\Bank system.exe
+C:\Users\mohamed osama\Downloads\Bank system\Bank system\obj\Debug\Bank system.pdb
