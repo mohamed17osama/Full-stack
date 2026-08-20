@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape rendering system", "Shape rendering system\Shape rendering system.csproj", "{DBEE0B23-5B8C-450E-A7F5-74BDAF648FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEE0B23-5B8C-450E-A7F5-74BDAF648FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEE0B23-5B8C-450E-A7F5-74BDAF648FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEE0B23-5B8C-450E-A7F5-74BDAF648FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEE0B23-5B8C-450E-A7F5-74BDAF648FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F8BA80-8BCE-40E6-A7A5-B61D1B9682F4}
+	EndGlobalSection
+EndGlobal
