@@ -15,7 +15,7 @@ namespace Task_1.Data
             {
                 entity.HasKey(t => t.Id);
                 entity.Property(t => t.Title).IsRequired().HasMaxLength(50);
-                entity.Property(t => t.IsCompleted).HasComputedColumnSql("CAST(CASE WHEN [Status] = 'Done' THEN 1 ELSE 0 END AS BIT)", stored : true);
+                //entity.Property(t => t.IsCompleted).HasComputedColumnSql("CAST(CASE WHEN [Status] = 'Done' THEN 1 ELSE 0 END AS BIT)", stored : true);
                 entity.Property(t => t.Status).IsRequired().HasMaxLength(50);
                 entity.Property(t => t.CreatedAt).HasDefaultValueSql("GETDATE()");
             });

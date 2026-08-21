@@ -44,16 +44,16 @@ namespace Task_1.Repositories
             {
                 Tasks = Tasks.Where(p => p.Status.Contains(param.Status, StringComparison.OrdinalIgnoreCase));
             }
-            if (param.IsCompleted.HasValue)
-            {
-                Tasks = Tasks.Where(p => p.IsCompleted == param.IsCompleted);
-            }
+            //if (param.IsCompleted.HasValue)
+            //{
+            //    Tasks = Tasks.Where(p => p.IsCompleted == param.IsCompleted);
+            //}
             var allowedSort = new Dictionary<string, Func<Tasks, object>>
             {
                 ["Title"] = p => p.Title,
                 ["Id"] = p => p.Id,
-                ["Status"] = p => p.Status,
-                ["Iscompleted"] = p => p.IsCompleted
+                ["Status"] = p => p.Status
+                //["Iscompleted"] = p => p.IsCompleted
             };
             if (allowedSort.TryGetValue(param.SortBy ?? "Id", out var keySelector))
             {

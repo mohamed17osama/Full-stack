@@ -6,7 +6,7 @@ namespace Task_1.DTOs
     {
         public string Title { get; set; }
 
-        public bool IsCompleted { get; set; }
+        //public bool IsCompleted { get; set; }
 
         public string Status { get; set; }
 

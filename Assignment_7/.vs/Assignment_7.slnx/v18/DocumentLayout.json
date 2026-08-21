@@ -1,61 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\",
+  "WorkspaceRootPath": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\dtos\\updatetaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\dtos\\updatetaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\dtos\\createtaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\dtos\\createtaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\dtos\\updatetaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\dtos\\updatetaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\dtos\\createtaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\dtos\\createtaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\models\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\models\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\models\\paginationparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\models\\paginationparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\models\\taskfilterparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\models\\taskfilterparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\assignment_7\\task_1\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\exceptions\\tasknotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\exceptions\\tasknotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|c:\\users\\mohamed osama\\source\\repos\\full stack\\assignment_7\\task_1\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B726B25-5C5A-A7B8-62C5-FCDA09EB54B4}|Task_1\\Task_1.csproj|solutionrelative:task_1\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,11 +94,206 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\DTOs\\TaskItemDTO.cs",
+              "RelativeDocumentMoniker": "Task_1\\DTOs\\TaskItemDTO.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\DTOs\\TaskItemDTO.cs",
+              "RelativeToolTip": "Task_1\\DTOs\\TaskItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:34:47.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateTaskRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\DTOs\\UpdateTaskRequestDTO.cs",
+              "RelativeDocumentMoniker": "Task_1\\DTOs\\UpdateTaskRequestDTO.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\DTOs\\UpdateTaskRequestDTO.cs",
+              "RelativeToolTip": "Task_1\\DTOs\\UpdateTaskRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:36:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task_1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Task_1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:24:30.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Task_1\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Task_1\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:55:17.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Models\\PageResult.cs",
+              "RelativeDocumentMoniker": "Task_1\\Models\\PageResult.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Models\\PageResult.cs",
+              "RelativeToolTip": "Task_1\\Models\\PageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:31:09.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Task_1\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Task_1\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T18:34:05.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTaskRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\DTOs\\CreateTaskRequestDTO.cs",
+              "RelativeDocumentMoniker": "Task_1\\DTOs\\CreateTaskRequestDTO.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\DTOs\\CreateTaskRequestDTO.cs",
+              "RelativeToolTip": "Task_1\\DTOs\\CreateTaskRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:35:47.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Task_1\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Task_1\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:42:45.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginationParam.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Models\\PaginationParam.cs",
+              "RelativeDocumentMoniker": "Task_1\\Models\\PaginationParam.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Models\\PaginationParam.cs",
+              "RelativeToolTip": "Task_1\\Models\\PaginationParam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:31:01.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskFilterParam.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Models\\TaskFilterParam.cs",
+              "RelativeDocumentMoniker": "Task_1\\Models\\TaskFilterParam.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Models\\TaskFilterParam.cs",
+              "RelativeToolTip": "Task_1\\Models\\TaskFilterParam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:30:42.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Exceptions\\TaskNotFound.cs",
+              "RelativeDocumentMoniker": "Task_1\\Exceptions\\TaskNotFound.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Exceptions\\TaskNotFound.cs",
+              "RelativeToolTip": "Task_1\\Exceptions\\TaskNotFound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:29:48.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "Task_1\\Exceptions\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "Task_1\\Exceptions\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:29:47.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "Task_1\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Models\\Tasks.cs",
+              "RelativeToolTip": "Task_1\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:33:11.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Task_1\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Services\\ITaskService.cs",
+              "RelativeToolTip": "Task_1\\Services\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T18:33:26.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Task_1\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Services\\TaskService.cs",
+              "RelativeToolTip": "Task_1\\Services\\TaskService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T18:33:17.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\.gitignore",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\.gitignore",
               "RelativeDocumentMoniker": "Task_1\\.gitignore",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\.gitignore",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\.gitignore",
               "RelativeToolTip": "Task_1\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -87,96 +302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Repositories\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "Task_1\\Repositories\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Repositories\\TaskRepository.cs",
-              "RelativeToolTip": "Task_1\\Repositories\\TaskRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA+wBUAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T18:34:05.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateTaskRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\DTOs\\CreateTaskRequestDTO.cs",
-              "RelativeDocumentMoniker": "Task_1\\DTOs\\CreateTaskRequestDTO.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\DTOs\\CreateTaskRequestDTO.cs",
-              "RelativeToolTip": "Task_1\\DTOs\\CreateTaskRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:35:47.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskItemDTO.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\DTOs\\TaskItemDTO.cs",
-              "RelativeDocumentMoniker": "Task_1\\DTOs\\TaskItemDTO.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\DTOs\\TaskItemDTO.cs",
-              "RelativeToolTip": "Task_1\\DTOs\\TaskItemDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:34:47.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateTaskRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\DTOs\\UpdateTaskRequestDTO.cs",
-              "RelativeDocumentMoniker": "Task_1\\DTOs\\UpdateTaskRequestDTO.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\DTOs\\UpdateTaskRequestDTO.cs",
-              "RelativeToolTip": "Task_1\\DTOs\\UpdateTaskRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:36:54.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Tasks.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Models\\Tasks.cs",
-              "RelativeDocumentMoniker": "Task_1\\Models\\Tasks.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Models\\Tasks.cs",
-              "RelativeToolTip": "Task_1\\Models\\Tasks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:33:11.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Task_1\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Task_1\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T19:24:30.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Task_1\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "Task_1\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:42:45.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Program.cs",
               "RelativeDocumentMoniker": "Task_1\\Program.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Program.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Program.cs",
               "RelativeToolTip": "Task_1\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,35 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Services\\TaskService.cs",
-              "RelativeDocumentMoniker": "Task_1\\Services\\TaskService.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Services\\TaskService.cs",
-              "RelativeToolTip": "Task_1\\Services\\TaskService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T18:33:17.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "Task_1\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "Task_1\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T19:55:17.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Task_1\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Properties\\launchSettings.json",
               "RelativeToolTip": "Task_1\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -220,23 +326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ITaskService.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Services\\ITaskService.cs",
-              "RelativeDocumentMoniker": "Task_1\\Services\\ITaskService.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Services\\ITaskService.cs",
-              "RelativeToolTip": "Task_1\\Services\\ITaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T18:33:26.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Repositories\\ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Repositories\\ITaskRepository.cs",
               "RelativeDocumentMoniker": "Task_1\\Repositories\\ITaskRepository.cs",
-              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Assignment_7\\Task_1\\Repositories\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\mohamed osama\\source\\repos\\Full Stack\\Assignment_7\\Task_1\\Repositories\\ITaskRepository.cs",
               "RelativeToolTip": "Task_1\\Repositories\\ITaskRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
